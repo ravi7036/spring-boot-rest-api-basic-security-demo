@@ -7,3 +7,5 @@ username: user1
 password: MyPassword432!
 
 **This is only for developer testing purpose, it is not at all recommended for production grade application.**
+
+API : http://localhost:8080/
